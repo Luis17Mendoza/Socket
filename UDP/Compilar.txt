@@ -1,0 +1,7 @@
+Ejecutar los programas con los siguientes comandos en dos ventanas diferentes de la terminal, estos codigos se ejecutaran de forma local.
+
+Servidor UDP: ./servidor_udp
+
+Cliente UDP: ./cliente_udp
+
+para salir del programa del servidor dar control + c.
